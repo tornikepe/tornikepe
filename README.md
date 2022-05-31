@@ -2,7 +2,7 @@
  <h1>Hello There 👋🏻</h1>
 </div> 
 
-I'm Tornike Peitrishvili, 19 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)**, **[Angular](https://github.com/angular)** and **[React]**
+I'm Tornike Peitrishvili, 19 years old, who loves coding, Enthusiast of **[Typescript](https://github.com/microsoft/TypeScript)**, **[Angular](https://github.com/angular)** and **[React](https://github.com/facebook/react)**
 
 * 🔨 Looking for colaborate on cool open source projects, I would love to work on **Typescript**
 * 💼 Also I have **[portoflio](https://tornikepe.netlify.app/)** where I have included some projects which are made by me 😄
